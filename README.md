@@ -33,15 +33,18 @@ The project includes the complete design workflow from schematic capture to PCB 
 
 ### Schematic
 
-![Schematic](Images/schematic.png)
+<img width="1366" height="768" alt="Screenshot 2026-06-25 100130" src="https://github.com/user-attachments/assets/b92da985-4604-4332-860f-7707677e76c8" />
+
 
 ### PCB Layout
 
-![PCB](Images/pcb_top.png)
+<img width="1366" height="768" alt="Screenshot 2026-06-25 100445" src="https://github.com/user-attachments/assets/78fd1ff8-da8d-4b19-9050-9f6968e8a6fa" />
+
 
 ### 3D View
 
-![3D](Images/3d_front.png)
+<img width="1366" height="768" alt="Screenshot 2026-06-25 100609" src="https://github.com/user-attachments/assets/3cb3a60a-28ad-4ef6-8ed2-adf08f4408e2" />
+
 
 ## Files Included
 - KiCad Project
@@ -58,7 +61,6 @@ The project includes the complete design workflow from schematic capture to PCB 
 - Footprint Assignment
 - PCB Routing
 - Design Rule Checking
-- Manufacturing File Generation
   
 ## License
 MIT License
